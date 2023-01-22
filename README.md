@@ -16,14 +16,6 @@ Here are some ideas to get you started:
 <h1>Hi 👋, I'm Annuai</h1>
 <h3>I like to work on physical products and their human connections</h3>
 
-- 🔭 I’m currently working on **Nothing**
-
-- 👨‍💻 All of my projects are available at [annu.me](annu.me)
-
-- 📝 I regularly write articles on [blog.annu.me](blog.annu.me)
-
-- 📫 How to reach me **annuai@outlook.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/annuai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="annuai" height="30" width="40" /></a>

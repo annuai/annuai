@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Annuai</h1>
-<h3 align="center">I like to work on physical products and their human connections</h3>
+<h1>Hi 👋, I'm Annuai</h1>
+<h3>I like to work on physical products and their human connections</h3>
 
 - 🔭 I’m currently working on **Nothing**
 

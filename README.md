@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <p>I like to work on physical products and their human connections</p>
 
 <h3 align="left">Connect with me:</h3>
+![Dev.to][Dev.to]
+
 <p align="left">
 <a href="https://dev.to/annuai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="annuai" height="30" width="40" /></a>
 <a href="https://twitter.com/annu_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="annu_ai" height="30" width="40" /></a>
@@ -92,42 +94,39 @@ Here are some ideas to get you started:
 [JQuery-url]: https://jquery.com 
 
 
-[![Next][Next.js]][Next-url]
-[![React][React.js]][React-url]
 <!-- [![Vue][Vue.js]][Vue-url]
 [![Angular][Angular.io]][Angular-url]
 [![Svelte][Svelte.dev]][Svelte-url]
 [![Laravel][Laravel.com]][Laravel-url] -->
-[![Bootstrap][Bootstrap.com]][Bootstrap-url]
-[![JQuery][JQuery.com]][JQuery-url]
-![CSS3][CSS3]
-![Sketch][Sketch]
-![Unity][Unity]
-![Arduino][Arduino]
-![Dev.to][Dev.to]
-![Typescript][Typescript]
 
-
-![CSS3][CSS3]
-![Sketch][Sketch]
-![Unity][Unity]
-![Arduino][Arduino]
-![Dev.to][Dev.to]
-![Typescript][Typescript]
-![Tailwind][Tailwind]
-![AdobeXD][AdobeXD]
 ![Figma][Figma]
-![ExpressJS][ExpressJS]
-![Git][Git]
-![Photoshop][Photoshop]
+![Sketch][Sketch]
+![AdobeXD][AdobeXD]
 ![Illustrator][Illustrator]
+![Photoshop][Photoshop]
+![Framer][Framer]
+
+[![React][React.js]][React-url]
+![Flutter][Flutter]
+![Unity][Unity]
 ![Javascript][Javascript]
+![Typescript][Typescript]
 ![Node.JS][Node.JS]
 ![Python][Python]
-![React][React]
 ![HTML5][HTML5]
-![Framer][Framer]
-![Flutter][Flutter]
-![Linux][Linux]
+![CSS3][CSS3]
+
+[![Next][Next.js]][Next-url]
+![ExpressJS][ExpressJS]
 ![Gatsby][Gatsby]
+[![JQuery][JQuery.com]][JQuery-url]
+![Tailwind][Tailwind]
+[![Bootstrap][Bootstrap.com]][Bootstrap-url]
+
+![Linux][Linux]
+![Git][Git]
+
+![Arduino][Arduino]
 ![RaspberryPi][RaspberryPi]
+
+[![Dev.to][Dev.to]](https://shields.io/http:// "![Dev.to][Dev.to]")

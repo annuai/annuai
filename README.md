@@ -43,6 +43,23 @@ Here are some ideas to get you started:
 [Arduino]: https://img.shields.io/badge/Arduino-0b9ba1?style=for-the-badge&logo=arduino&logoColor=white
 [Dev.to]: https://img.shields.io/badge/dev.to-1876d2?style=for-the-badge&logo=dev.to&logoColor=white
 [Typescript]: https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white
+[Tailwind]: https://img.shields.io/badge/tailwind-38bdf9?style=for-the-badge&logo=tailwindcss&logoColor=white
+[AdobeXD]: https://img.shields.io/badge/adobe%20xd-460035?style=for-the-badge&logo=adobexd&logoColor=f75eee
+[Figma]: https://img.shields.io/badge/figma-1d1d1d?style=for-the-badge&logo=figma&logoColor=white
+[ExpressJS]: https://img.shields.io/badge/express.js-1d1d1d?style=for-the-badge&logo=express&logoColor=white
+[Git]: https://img.shields.io/badge/git-f13c2d?style=for-the-badge&logo=git&logoColor=white
+[Photoshop]: https://img.shields.io/badge/Photoshop-001d34?style=for-the-badge&logo=adobephotoshop&logoColor=30a2f8
+[Illustrator]: https://img.shields.io/badge/Illustrator-261300?style=for-the-badge&logo=adobeillustrator&logoColor=ff7c01
+[Javascript]: https://img.shields.io/badge/Javascript-efdb50?style=for-the-badge&logo=javascript&logoColor=black
+[Node.JS]: https://img.shields.io/badge/Node.JS-44463b?style=for-the-badge&logo=node.js&logoColor=8bbf3d
+[Python]: https://img.shields.io/badge/python-f7c63d?style=for-the-badge&logo=python&logoColor=3575a9
+[React]: https://img.shields.io/badge/react-61dbfb?style=for-the-badge&logo=react&logoColor=black
+[HTML5]: https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=e44d27
+[Framer]: https://img.shields.io/badge/framer-000000?style=for-the-badge&logo=framer&logoColor=08a2ff
+[Flutter]: https://img.shields.io/badge/flutter-02b1ef?style=for-the-badge&logo=flutter&logoColor=white
+[Linux]: https://img.shields.io/badge/linux-ffd133?style=for-the-badge&logo=linux&logoColor=000000
+[Gatsby]: https://img.shields.io/badge/gatsby.js-623194?style=for-the-badge&logo=gatsby&logoColor=white
+[RaspberryPi]: https://img.shields.io/badge/raspberry%20pi-b60f40?style=for-the-badge&logo=raspberrypi&logoColor=white
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
@@ -77,11 +94,40 @@ Here are some ideas to get you started:
 
 [![Next][Next.js]][Next-url]
 [![React][React.js]][React-url]
-[![Vue][Vue.js]][Vue-url]
+<!-- [![Vue][Vue.js]][Vue-url]
 [![Angular][Angular.io]][Angular-url]
 [![Svelte][Svelte.dev]][Svelte-url]
-[![Laravel][Laravel.com]][Laravel-url]
+[![Laravel][Laravel.com]][Laravel-url] -->
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 [![JQuery][JQuery.com]][JQuery-url]
+![CSS3][CSS3]
+![Sketch][Sketch]
+![Unity][Unity]
+![Arduino][Arduino]
+![Dev.to][Dev.to]
+![Typescript][Typescript]
 
-[![Typescript][Typescript]][]
+
+![CSS3][CSS3]
+![Sketch][Sketch]
+![Unity][Unity]
+![Arduino][Arduino]
+![Dev.to][Dev.to]
+![Typescript][Typescript]
+![Tailwind][Tailwind]
+![AdobeXD][AdobeXD]
+![Figma][Figma]
+![ExpressJS][ExpressJS]
+![Git][Git]
+![Photoshop][Photoshop]
+![Illustrator][Illustrator]
+![Javascript][Javascript]
+![Node.JS][Node.JS]
+![Python][Python]
+![React][React]
+![HTML5][HTML5]
+![Framer][Framer]
+![Flutter][Flutter]
+![Linux][Linux]
+![Gatsby][Gatsby]
+![RaspberryPi][RaspberryPi]

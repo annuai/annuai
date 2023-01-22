@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <p>I like to work on physical products and their human connections</p>
 
 <h3 align="left">Connect with me:</h3>
-![Dev.to][Dev.to]
 
 <p align="left">
 <a href="https://dev.to/annuai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="annuai" height="30" width="40" /></a>
@@ -98,7 +97,7 @@ Here are some ideas to get you started:
 [![Angular][Angular.io]][Angular-url]
 [![Svelte][Svelte.dev]][Svelte-url]
 [![Laravel][Laravel.com]][Laravel-url] -->
-
+<!-- 
 ![Figma][Figma]
 ![Sketch][Sketch]
 ![AdobeXD][AdobeXD]
@@ -129,4 +128,4 @@ Here are some ideas to get you started:
 ![Arduino][Arduino]
 ![RaspberryPi][RaspberryPi]
 
-[![Dev.to][Dev.to]](https://shields.io/http:// "![Dev.to][Dev.to]")
+[![Dev.to][Dev.to]](https://shields.io/http:// "![Dev.to][Dev.to]") -->

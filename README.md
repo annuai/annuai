@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hi 👋, I'm Annuai</h1>
-<h3>I like to work on physical products and their human connections</h3>
+<!-- <h1>Hi there👋, I'm Annuai</h1> -->
+### Hi there 👋
+<p>I like to work on physical products and their human connections</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
